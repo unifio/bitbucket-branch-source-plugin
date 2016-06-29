@@ -8,3 +8,4 @@ test:
     - mkdir $CIRCLE_ARTIFACTS/plugin
     - mv /home/ubuntu/bitbucket-branch-source-plugin/target/*.hpi $CIRCLE_ARTIFACTS/plugin
     - mv /home/ubuntu/bitbucket-branch-source-plugin/target/*.jar $CIRCLE_ARTIFACTS/plugin
+
